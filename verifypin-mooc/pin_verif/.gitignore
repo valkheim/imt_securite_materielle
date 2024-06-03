@@ -1,0 +1,8 @@
+bin/
+obj/
+m0.km
+m1.km
+m2.km
+m3.km
+learn_traces.npy
+learn_truths.npy

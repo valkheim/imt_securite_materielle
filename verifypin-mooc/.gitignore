@@ -1,0 +1,9 @@
+*obj/
+*bin/
+pin.elf
+pin.list
+pin.bin
+*.km
+faults.txt
+__pycache__/
+*.npy
